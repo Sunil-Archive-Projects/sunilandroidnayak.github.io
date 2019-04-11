@@ -1,0 +1,12 @@
+title: SunilAndroidNayak Blog
+author: Sunil L
+description: SunilAndroidNayak Work and Personal Blog
+highlighter: null
+permalink: /:title
+
+url:
+baseurl:
+
+# Custom options:
+# color_scheme: azul|ruby|amber|avocado
+# color_scheme: avocado
