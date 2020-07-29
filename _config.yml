@@ -4,8 +4,8 @@ highlighter:      rouge
 
 # Setup
 title:            Sunil L
-tagline:          'L for Learner'
-description:      'A Journey through Art and Science of Code'
+tagline:          '* Code * Art * Music *'
+description:      ''
 url:              https://sunilandroidnayak.github.io
 baseurl:          '/sunilandroidnayak.github.io'
                   # the optional subpath of your site, e.g. "/blog"
@@ -16,7 +16,7 @@ baseurl:          '/sunilandroidnayak.github.io'
 
 author:
   name:           'Sunil L'
-  url:            https://twitter.com/sunilandroidnayak
+  url:            https://twitter.com/sundroid
 
 paginate:         5
 # paginate_path:    '/page:num'
