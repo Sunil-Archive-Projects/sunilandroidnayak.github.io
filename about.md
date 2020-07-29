@@ -1,15 +1,13 @@
 ---
-layout: post
-permalink: /about/index.html
-title: About Sunil L
-description: Sunil
-tags: [about, Jekyll, theme, responsive]
-image:
-  feature: soft-trees.jpg
+layout: page
+title: About
+sidebar_link: true
 ---
 
-This is built on Semantic.gs grid framework which I edited a bit to make it fluid. I hope you enjoy using, forking, whatevering this theme as much as I did making it.
+<p class="message">
+  Hey there! This page is included as an example. Feel free to customize it
+  for your own use upon downloading. Carry on!
+</p>
 
-
-### The Name
-Balzac was a famous writer, known for his beautiful prose. I read some Balzac in school, but mostly feel comfort in the name of my favorite coffee shop in Stratford, Ontario.
+To make pages show up in the sidebar, add `sidebar_link: true` to the front
+matter.
